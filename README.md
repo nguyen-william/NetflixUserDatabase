@@ -72,5 +72,6 @@ The Power BI report includes the following visualizations and insights:
 
 
 Dashboard
-![Netflix_Userbase_Dashboard](https://github.com/nguyen-william/NetflixUserDatabase/assets/77467480/ff977774-482d-4724-9589-078c1afc350e)
+![Netflix_Userbase_Dashboard](https://github.com/nguyen-william/NetflixUserDatabase/assets/77467480/4652edc5-0298-45dd-8434-7611b812a0c7)
+
 
