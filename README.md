@@ -69,3 +69,8 @@ The Power BI report includes the following visualizations and insights:
     Device Usage:
         Distribution of users by device type.
         Analysis of device usage patterns across different age ranges and subscription types.
+
+
+Dashboard
+![Netflix_Userbase_Dashboard](https://github.com/nguyen-william/NetflixUserDatabase/assets/77467480/ff977774-482d-4724-9589-078c1afc350e)
+
