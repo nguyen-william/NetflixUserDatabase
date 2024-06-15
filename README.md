@@ -75,3 +75,53 @@ Dashboard
 ![Netflix_Userbase_Dashboard](https://github.com/nguyen-william/NetflixUserDatabase/assets/77467480/4652edc5-0298-45dd-8434-7611b812a0c7)
 
 
+Questions:
+
+    How fast is Netflix's user base growing?
+        KPI: Monthly Active Users (MAUs)
+        KPI: Quarterly growth rate of subscribers
+        KPI: Net subscriber additions per quarter
+
+    What is the retention rate of Netflix users?
+        KPI: Churn rate (percentage of users who cancel their subscription)
+        KPI: Retention rate (percentage of users who remain subscribed over time)
+
+    What is the engagement level of Netflix users?
+        KPI: Average viewing hours per user per month
+        KPI: Daily Active Users (DAUs)
+        KPI: Content consumption per user (number of titles watched per user per month)
+
+    What is the customer satisfaction level among Netflix users?
+        KPI: Net Promoter Score (NPS)
+        KPI: User ratings for content
+        KPI: Customer support response and resolution time
+
+    What are the demographic trends in Netflix’s user base?
+        KPI: User demographics (age, gender, location)
+        KPI: Household income distribution of subscribers
+
+    How effective are Netflix’s content recommendations?
+        KPI: Percentage of content viewed that was recommended
+        KPI: Click-through rate on recommended content
+        KPI: User satisfaction with recommendations (survey-based)
+
+    What is the revenue per user?
+        KPI: Average Revenue Per User (ARPU)
+        KPI: Revenue growth rate
+        KPI: Subscription tier distribution (percentage of users in each pricing tier)
+
+    How is Netflix performing in different markets?
+        KPI: Subscriber growth by region (e.g., North America, EMEA, APAC, Latin America)
+        KPI: Market penetration rate (subscribers as a percentage of the population in each market)
+        KPI: Regional ARPU
+
+    What is the impact of original content on user growth and retention?
+        KPI: Viewership of original content vs. licensed content
+        KPI: Subscriber growth rate after release of original content
+        KPI: Retention rate of users who watch original content
+
+    What is the efficiency of Netflix’s marketing efforts?
+        KPI: Customer Acquisition Cost (CAC)
+        KPI: Conversion rate from free trial to paid subscription
+        KPI: Marketing spend per new subscriber
+
